@@ -1,7 +1,9 @@
 package org.example.lombok;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
+@AllArgsConstructor
 @Data
 public class Dept {
 
